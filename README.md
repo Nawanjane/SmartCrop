@@ -24,24 +24,24 @@ This application uses historical data on crop performance, soil composition, and
 ### Installing
 
 1. Clone the repository to your local machine:
-   ```
+   
    git clone https://github.com/your-username/crop-prediction-app.git
-   ```
+   
 2. Navigate to the project directory:
-   ```
+   
    cd crop-prediction-app
-   ```
+   
 3. Install the required packages:
-   ```
+   
    pip install -r requirements.txt
-   ```
+   
 
 ### Executing the program
 
 1. Run the Flask application:
-   ```
+   
    flask run
-   ```
+   
 2. Access the web interface at `http://127.0.0.1:5000/` in your browser.
 
 ## Deployment
@@ -77,6 +77,3 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 - Etc.
 ```
 
-Make sure to replace `your-username` with your actual GitHub username and provide your contact information. Also, ensure that you have the `CONTRIBUTING.md` and `LICENSE.md` files in your repository if you reference them in the README.
-
-This `README.md` file should be placed in the root directory of your repository. It will be automatically displayed on the main page of your GitHub repository, providing visitors with information about your project.
