@@ -62,9 +62,8 @@ Contributions are welcome! Please read `CONTRIBUTING.md` for details on our code
 
 ## Authors
 
-Your Name  
-Contact information  
-[Your GitHub Profile](https://github.com/your-username)
+Nimendra Nawanjane
+nimendradandeniya@gmail.com
 
 ## License
 
