@@ -58,7 +58,7 @@ Any issues or questions can be directed to the Issues section of the GitHub repo
 
 ## Contributing
 
-Contributions are welcome! Please read `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests.
+Contributions are welcome! Please Contact Us for details on our code of conduct and the process for submitting pull requests.
 
 ## Authors
 
