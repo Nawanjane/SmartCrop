@@ -1,6 +1,5 @@
 
 
-```markdown
 # Crop Prediction App
 
 The Crop Prediction App is a machine learning-powered Flask application that assists farmers and agricultural professionals in making informed decisions about crop selection based on various soil and environmental factors.
@@ -24,24 +23,25 @@ This application uses historical data on crop performance, soil composition, and
 ### Installing
 
 1. Clone the repository to your local machine:
-   
+   ```bash
    git clone https://github.com/your-username/crop-prediction-app.git
-   
+   ```
 2. Navigate to the project directory:
-   
+   ```bash
    cd crop-prediction-app
-   
+   ```
 3. Install the required packages:
-   
+   ```bash
    pip install -r requirements.txt
-   
+   ```
 
 ### Executing the program
 
 1. Run the Flask application:
-   
+   ```bash
+   export FLASK_APP=app.py
    flask run
-   
+   ```
 2. Access the web interface at `http://127.0.0.1:5000/` in your browser.
 
 ## Deployment
@@ -67,12 +67,5 @@ nimendradandeniya@gmail.com
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
-
-## Acknowledgments
-
-- Acknowledge anyone or any organization that helped your project.
-- Any inspiration or code snippets you have used.
-- Etc.
-```
+This project is licensed under the MIT License 
 
