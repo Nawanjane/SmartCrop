@@ -32,10 +32,10 @@ This application uses historical data on crop performance, soil composition, and
    ```
 3. Set Up a Virtual Environment (Optional but Recommended)
    It is a good practice to create a virtual environment for your project to manage dependencies:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-```
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   ```
 4. Install the required packages:
    ```bash
    pip install -r requirements.txt
